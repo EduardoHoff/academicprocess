@@ -13,7 +13,7 @@ App::uses('Debugger', 'Utility');
 
 ?>
 
-Hello world
+<p>AcademicProcess - Metodologia de Desenvolvimento Ágil de Software para o Meio Acadêmico. </p>
 
 <?php
 if (Configure::read('debug') > 0):
